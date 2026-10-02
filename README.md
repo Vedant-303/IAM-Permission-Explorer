@@ -1,7 +1,6 @@
 # IAM Permissions Explorer
 
 **PM assignment - Option 3: Design a view to help identify and fix excessive or unused IAM permissions.**
-Submitted by Vedant Jeughale.
 
 **Submitted By:** Vedant Jeughale
 
