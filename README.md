@@ -35,6 +35,10 @@ Each screen in Figma has numbered pink pins that map to annotation cards explain
 
 **% of flagged excess permissions removed within 30 days**, guarded by rollback rate and zero remediation-caused incidents. Full metric set in [`WRITEUP.md`](WRITEUP.md#success-metrics).
 
+## Write-up
+  
+[Assessment Write Up.pdf](Assessment%20Write%20Up.pdf): 1-page write-up, plus bonus development action items on page 2
+
 ## Figma Link
 
 [Open the wireframes in Figma](https://www.figma.com/design/MneAEmAenGIkPWNhGSOInT/IAM-Permissions-Explorer--PM-Assignment)
