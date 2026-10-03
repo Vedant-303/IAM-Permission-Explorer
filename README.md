@@ -33,7 +33,7 @@ Each screen in Figma has numbered pink pins that map to annotation cards explain
 
 ## North-star metric
 
-**% of flagged excess permissions removed within 30 days**, guarded by rollback rate and zero remediation-caused incidents. Full metric set in [`WRITEUP.md`](WRITEUP.md#success-metrics).
+**% of flagged excess permissions removed within 30 days**, guarded by rollback rate and zero remediation-caused incidents.
 
 ## Write-up
   
